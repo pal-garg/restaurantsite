@@ -29,7 +29,6 @@
 
 .section-intro {
     height: 820px;
-    background-image: "image.jpg";
     background-size:cover;
     display:flex;
     flex-direction: column;
